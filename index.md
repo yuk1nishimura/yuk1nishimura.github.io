@@ -45,8 +45,9 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
 
 ## PUBLICATIONS
 #### Peer-Reviewed International Journal Papers
-1.  **Y. Nishimura** and T. Yamaguchi, "Grass Cutting Robot for Inclined Surfaces in Hilly and Mountainous Areas," Sensors, vol. 23, no. 1, p. 528, Jan. 2023, doi: [10.3390/s23010528](https://doi.org/10.3390/s23010528) (Published on 2023/01/03).
-1.  **Y. Nishimura**, S. Takahashi, H. Mochiyama and T. Yamaguchi, "Automated Hammering Inspection System With Multi-Copter Type Mobile Robot for Concrete Structures," in IEEE Robotics and Automation Letters (RAL), vol. 7, no. 4, pp. 9993-10000, Oct. 2022, doi: [10.1109/LRA.2022.3191246](https://doi.org/10.1109/LRA.2022.3191246) (Published on 2022/07/15).
+1.  Y. Chen, T. Kuwahara, **Y. Nishimura[^\*]**, and K. Suzuki, “WeMo: A Prototype of a Wearable Mobility Device Adapting to User’s Natural Posture Changes,” Sensors, vol. 23, no. 18, p. 7683, Sep. 2023, doi: [10.3390/s23187683](https://doi.org/10.3390/s23187683) (Published on 2023/09/06).
+1.  **Y. Nishimura** and T. Yamaguchi[^\*], "Grass Cutting Robot for Inclined Surfaces in Hilly and Mountainous Areas," Sensors, vol. 23, no. 1, p. 528, Jan. 2023, doi: [10.3390/s23010528](https://doi.org/10.3390/s23010528) (Published on 2023/01/03).
+1.  **Y. Nishimura**, S. Takahashi, H. Mochiyama and T. Yamaguchi[^\*], "Automated Hammering Inspection System With Multi-Copter Type Mobile Robot for Concrete Structures," in IEEE Robotics and Automation Letters (RAL), vol. 7, no. 4, pp. 9993-10000, Oct. 2022, doi: [10.1109/LRA.2022.3191246](https://doi.org/10.1109/LRA.2022.3191246) (Published on 2022/07/15).
 
 #### Peer-Reviewed International Conference Papers
 1.  S. Takahashi, **Y. Nishimura**, T. Yamaguchi, and H. Mochiyama, "Aerial Snap: A Compact Snap Through Hammering Mechanism for UAV," 2021 IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO), Virtual, Jul. 2021, pp. FrPA.21 (Published on 2021/07/08).
@@ -94,6 +95,6 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
 
 ## MEDIA
 1.  [筑波大、ドローンで打音検査　人近づけないインフラ点検](https://www.nikkan.co.jp/articles/view/00604115) \[ University of Tsukuba uses drones to inspect hammering sounds: Infrastructure inspections that are inaccessible to humans\], _Nikkan Kogyo Shimbun_ \[The Daily Industrial News\], Jul. 5, 2021.
-1.  [TDK presents 学生イノベーションバトル そのヒラメキで世界を変えろ](https://abema.tv/channels/special-plus/slots/EaWJiwRNx3yjaX) \[TDK presents Gakusei Inovation Battle: Sono hirameki de sekai wo kaero\]  season 1, episode 1 to 6, aired Dec. 7, 2019 to Mar. 28, 2020, on AbemaTV.
+1.  [TDK presents 学生イノベーションバトル そのヒラメキで世界を変えろ](https://abema.tv/channels/special-plus/slots/EaWJiwRNx3yjaX) \[TDK presents Gakusei Innovation Battle: Sono hirameki de sekai wo kaero\]  season 1, episode 1 to 6, aired Dec. 7, 2019 to Mar. 28, 2020, on AbemaTV.
 
 - - -
