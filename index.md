@@ -45,7 +45,8 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
 
 ## PUBLICATIONS
 #### Peer-Reviewed International Journal Papers
-1.  Y. Chen, T. Kuwahara, **Y. Nishimura***, and K. Suzuki, “WeMo: A Prototype of a Wearable Mobility Device Adapting to User’s Natural Posture Changes,” Sensors, vol. 23, no. 18, p. 7683, Sep. 2023, doi: [10.3390/s23187683](https://doi.org/10.3390/s23187683) (Published on 2023/09/06).
+1.  Z. Lu and **Y. Nishimura**, "Telepresence Observation for Kindergarten Classroom Rating: A Pilot Study," in IEEE Access, vol. 12, pp. 32181-32191, 2024, doi: [10.1109/ACCESS.2024.3368855](https://doi.org/10.1109/ACCESS.2024.3368855) (Published on 2024/02/21).
+1.  Y. Chen, T. Kuwahara, **Y. Nishimura***, and K. Suzuki, "WeMo: A Prototype of a Wearable Mobility Device Adapting to User’s Natural Posture Changes," Sensors, vol. 23, no. 18, p. 7683, Sep. 2023, doi: [10.3390/s23187683](https://doi.org/10.3390/s23187683) (Published on 2023/09/06).
 1.  **Y. Nishimura** and T. Yamaguchi*, "Grass Cutting Robot for Inclined Surfaces in Hilly and Mountainous Areas," Sensors, vol. 23, no. 1, p. 528, Jan. 2023, doi: [10.3390/s23010528](https://doi.org/10.3390/s23010528) (Published on 2023/01/03).
 1.  **Y. Nishimura**, S. Takahashi, H. Mochiyama and T. Yamaguchi*, "Automated Hammering Inspection System With Multi-Copter Type Mobile Robot for Concrete Structures," in IEEE Robotics and Automation Letters (RAL), vol. 7, no. 4, pp. 9993-10000, Oct. 2022, doi: [10.1109/LRA.2022.3191246](https://doi.org/10.1109/LRA.2022.3191246) (Published on 2022/07/15).
 
@@ -70,7 +71,7 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
 
 - - -
 
-## FUNDINGS
+## FUNDING
 #### Completed Research
 1.  [_Chuusankan chiiki deno nousagyou jidouka no tameno kyuushamen idou robotto no kenkyuu_ 中山間地域での農作業自動化のための急斜面移動ロボットの研究 \[Research on steep-slope mobile robots for automation of agricultural work in hilly and mountainous areas\]](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21J10757/)
     -  Grant Name: Grant-in-Aid for JSPS Fellows
@@ -82,7 +83,7 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
     -  Grant Name: Grants for Researchers Attending International Conferences
     -  Grant No.: N/A
     -  Organization: The NEC C&C Foundation
-    -  Amount : Transportation and Accomodation Fee Coverage
+    -  Amount : Transportation and Accommodation Fee Coverage
     -  Period : 2020/01/12 - 2023/01/15 (To attend 2020 IEEE/SICE International Symposium on System Integration)
 
 - - -
