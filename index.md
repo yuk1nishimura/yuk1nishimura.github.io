@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yuki Nishimura
-description: Yuki Nishimura received his Doctor degree in Human Informatics from Ph.D. Program in Empowerment Informatics, University of Tsukuba, Japan in 2023. He is a Post-Doctoral Fellow at the Research Center for Intelligent Robotics, Zhejiang Lab, China. His interest includes Climbing Robots, Robotics and Automation in Agriculture and Forestry, Robotics and Automation in Construction, Computer Vision for Automation, Telerobotics and Teleoperation.
+description: Yuki Nishimura received his Doctor degree in Human Informatics from Ph.D. Program in Empowerment Informatics, University of Tsukuba, Japan in 2023. He is a Specially Appointed Associate Professor at the School of Mechanical Engineering, Hangzhou Dianzi University, China. His interest includes Climbing Robots, Robotics and Automation in Agriculture and Forestry, Robotics and Automation in Construction, Computer Vision for Automation, Telerobotics and Teleoperation.
 ---
 
 - - -
@@ -11,20 +11,11 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
 
 - - -
 
-## EDUCATION
-- Doctor in Human Informatics
-  - Ph.D. Program in Empowerment Informatics, University of Tsukuba, Japan (2020 - 2023).
-  - PhD thesis : A Study on Propeller-type Climbing Robot on Inclined Surface and its Applications
-- Master's degree in Human Informatics
-  - Ph.D. Program in Empowerment Informatics, University of Tsukuba, Japan (2018 - 2020).
-- Bachelor's degree in Engineering
-  - College of Engineering Systems, University of Tsukuba, Japan (2014 - 2018).
-
-- - -
-
 ## ACADEMIC CAREER
 #### Research
-- Postdoctoral Fellow (2023 - ).
+- Specially Appointed Associate Professor (2024 - )
+  - School of Mechanical Engineering, Hangzhou Dianzi University, China.
+- Postdoctoral Fellow (2023 - 2024).
   - Research Center for Intelligent Robotics, Zhejiang Lab, China.
 - Research Fellow (2021 - 2023).
   - DC2, Japan Society for Promotion of Science, Japan.
@@ -41,6 +32,17 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
     - Teaching Assistant of Technical English Exercise (2020).
     - Teaching Assistant of Basic Laboratory of Intelligent Engineering Systems (2018-2019).
 
+- - -
+
+## EDUCATION
+- Doctor in Human Informatics
+  - Ph.D. Program in Empowerment Informatics, University of Tsukuba, Japan (2020 - 2023).
+  - PhD thesis : A Study on Propeller-type Climbing Robot on Inclined Surface and its Applications
+- Master's degree in Human Informatics
+  - Ph.D. Program in Empowerment Informatics, University of Tsukuba, Japan (2018 - 2020).
+- Bachelor's degree in Engineering
+  - College of Engineering Systems, University of Tsukuba, Japan (2014 - 2018).
+    
 - - -
 
 ## PUBLICATIONS
