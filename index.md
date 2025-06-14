@@ -6,8 +6,7 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
 
 - - -
 
-- [ORCID](https://orcid.org/0009-0004-7923-5036)
-- [YouTube](https://www.youtube.com/@y.nishimura8553)
+| [HOME](https://yuk1nishimura.github.io/index.html) | [ORCID](https://orcid.org/0009-0004-7923-5036) | [YouTube](https://www.youtube.com/@y.nishimura8553) |
 
 - - -
 
