@@ -47,6 +47,8 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
 
 ## PUBLICATIONS
 #### Peer-Reviewed International Journal Papers
+1.  K. Mao, Z. Li, Z. Lu, **Y. Nishimura**, and T. Li, "NAO, I Can Read Your Mind: Preschool-Aged Children Construct Theory of Artificial Mind (ToAM)," International Journal of Human–Computer Interaction, pp. 1–14, 2025, doi: [10.1080/10447318.2025.2474488](https://doi.org/10.1080/10447318.2025.2474488) (Published on 2025/03/19).
+1.  L. Meng, Y. Li, S. Zhou, L. Yang, **Y. Nishimura**, and Y. Narazaki, "Image Acquisition of Critical Bridge Components Using Vision-guided Autonomous Vehicle," Periodica Polytechnica Civil Engineering, vol. 69, no. 2, pp. 447–460, 2025, doi: [10.3311/PPci.38854](https://doi.org/10.3311/PPci.38854) (Published on 2025/01/21).
 1.  **Y. Nishimura**, H. Mochiyama and T. Yamaguchi, "Propeller-Type Wall-Climbing Robot for Visual and Hammering Inspection of Concrete Surfaces," IEEE Access, vol. 12, pp. 70963-70972, 2024, doi: [10.1109/ACCESS.2024.3402218](https://doi.org/10.1109/ACCESS.2024.3402218) (Published on 2024/05/17).
 1.  Z. Lu and **Y. Nishimura**, "Telepresence Observation for Kindergarten Classroom Rating: A Pilot Study," IEEE Access, vol. 12, pp. 32181-32191, 2024, doi: [10.1109/ACCESS.2024.3368855](https://doi.org/10.1109/ACCESS.2024.3368855) (Published on 2024/02/21).
 1.  Y. Chen, T. Kuwahara, **Y. Nishimura***, and K. Suzuki, "WeMo: A Prototype of a Wearable Mobility Device Adapting to User’s Natural Posture Changes," Sensors, vol. 23, no. 18, p. 7683, Sep. 2023, doi: [10.3390/s23187683](https://doi.org/10.3390/s23187683) (Published on 2023/09/06).
