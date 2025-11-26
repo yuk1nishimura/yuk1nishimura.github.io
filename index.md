@@ -46,6 +46,8 @@ description: Yuki Nishimura received his Doctor degree in Human Informatics from
 
 ## PUBLICATIONS
 #### Peer-Reviewed International Journal Papers
+1.  Y. Nishimura, A. Kashihara, and T. Yamaguchi, "Development of an Eyeglass-type Chewing Detection Device with a Pressure Sensor Array," Sensors and Materials, vol. 37, no. 8, p. 3389, 2025, doi: [10.18494/sam5624](https://doi.org/10.18494/sam5624) (Published on 2025/08/08).
+1.  Y. Nishimura, C. Wang, and W. Song, "Metal Thickness Measurement Using an Ultrasonic Probe with a Linear Actuator for a Magnet-Type Climbing Robot: Design and Development," Actuators, vol. 14, no. 6, p. 299, 2025, doi: [10.3390/act14060299](https://doi.org/10.3390/act14060299) (Published on 2025/06/18).
 1.  K. Mao, Z. Li, Z. Lu, **Y. Nishimura**, and T. Li, "NAO, I Can Read Your Mind: Preschool-Aged Children Construct Theory of Artificial Mind (ToAM)," International Journal of Human–Computer Interaction, pp. 1–14, 2025, doi: [10.1080/10447318.2025.2474488](https://doi.org/10.1080/10447318.2025.2474488) (Published on 2025/03/19).
 1.  L. Meng, Y. Li, S. Zhou, L. Yang, **Y. Nishimura**, and Y. Narazaki, "Image Acquisition of Critical Bridge Components Using Vision-guided Autonomous Vehicle," Periodica Polytechnica Civil Engineering, vol. 69, no. 2, pp. 447–460, 2025, doi: [10.3311/PPci.38854](https://doi.org/10.3311/PPci.38854) (Published on 2025/01/21).
 1.  **Y. Nishimura**, H. Mochiyama and T. Yamaguchi, "Propeller-Type Wall-Climbing Robot for Visual and Hammering Inspection of Concrete Surfaces," IEEE Access, vol. 12, pp. 70963-70972, 2024, doi: [10.1109/ACCESS.2024.3402218](https://doi.org/10.1109/ACCESS.2024.3402218) (Published on 2024/05/17).
