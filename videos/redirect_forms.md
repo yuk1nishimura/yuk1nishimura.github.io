@@ -1,14 +1,3 @@
-<script>
-  window.onload = function() {
-    var urls = [
-      "https://www.wenjuan.com/s/UZBZJvMTqh/",
-      "https://www.wenjuan.com/s/EzU3MrP/",
-      "https://www.wenjuan.com/s/ZfUnayB/",
-      "https://www.wenjuan.com/s/Ur6zuqS/",
-      "https://www.wenjuan.com/s/mIzeQfi/",
-      "https://www.wenjuan.com/s/Rbmu2mc/"
-    ];
-    var randomUrl = urls[Math.floor(Math.random() * urls.length)];
-    window.location.href = randomUrl;
-  };
-</script>
+本次问卷已结束收集。衷心感谢您的关注与参与，您的支持将为我们的研究提供宝贵的参考。
+
+[MORE ABOUT OUR RESEARCH](https://yuk1nishimura.github.io/index.html)
